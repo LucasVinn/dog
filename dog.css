@@ -1,0 +1,22 @@
+body {
+    background-color: #34353c;
+}
+
+.dog-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #a18d2b;
+}
+
+footer {
+    padding-top: 8rem;
+}
